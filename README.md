@@ -3,13 +3,12 @@
 List of the most popular language servers (lsp). Feel free to create a pull request.
 
 * No more than 2 servers for one thing. Better just one (the best).
-* Only editor independent implementations
 
 ## Languages
 
 * [Ruby (solargraph)](https://github.com/castwide/solargraph)
 * [PHP (phpractor)](https://github.com/phpactor/phpactor)
-* [CSS (css-language-server)](https://github.com/onivim/css-language-server)
+* [CSS (vscode-css-languageservice)](https://github.com/Microsoft/vscode-css-languageservice)
 
 ## Formats
 

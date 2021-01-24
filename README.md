@@ -9,6 +9,8 @@ List of the most popular language servers (lsp). Feel free to create a pull requ
 * [Ruby (solargraph)](https://github.com/castwide/solargraph)
 * [PHP (phpractor)](https://github.com/phpactor/phpactor)
 * [CSS (vscode-css-languageservice)](https://github.com/Microsoft/vscode-css-languageservice)
+* [Elixir (elixir-ls)](https://github.com/elixir-lsp/elixir-ls)
+* [Clojure (clojure-lsp)](https://github.com/clojure-lsp/clojure-lsp)
 
 ## Formats
 

@@ -6,11 +6,24 @@ List of the most popular language servers (lsp). Feel free to create a pull requ
 
 ## Languages
 
-* [Ruby (solargraph)](https://github.com/castwide/solargraph)
-* [PHP (phpractor)](https://github.com/phpactor/phpactor)
+* [C++ (ccls)](https://github.com/MaskRay/ccls)
+* [C# (omnisharp-roslyn)](https://github.com/OmniSharp/omnisharp-roslyn)
+* [Clojure (clojure-lsp)](https://github.com/clojure-lsp/clojure-lsp)
 * [CSS (vscode-css-languageservice)](https://github.com/Microsoft/vscode-css-languageservice)
 * [Elixir (elixir-ls)](https://github.com/elixir-lsp/elixir-ls)
-* [Clojure (clojure-lsp)](https://github.com/clojure-lsp/clojure-lsp)
+* [Erlang (erlang_ls)](https://github.com/erlang-ls/erlang_ls)
+* [Go (gopls)](https://github.com/golang/tools/tree/master/gopls)
+* [Haskell](https://github.com/haskell/haskell-language-server/)
+* [Kotlin](https://github.com/fwcd/kotlin-language-server)
+* [PHP (phpractor)](https://github.com/phpactor/phpactor)
+* [Python (pyright)](https://github.com/microsoft/pyright)
+* [Python (palantir)](https://github.com/palantir/python-language-server)
+* [Ruby (solargraph)](https://github.com/castwide/solargraph)
+* [Rust (rls)](https://github.com/rust-lang/rls)
+* [Scala (metals)](https://github.com/scalameta/metals)
+* [Swift (SourceKit-LSP)](https://github.com/apple/sourcekit-lsp)
+* [TypeScript (theia-ide)](https://github.com/theia-ide/typescript-language-server)
+* [Vimscript](https://github.com/iamcco/vim-language-server)
 
 ## Formats
 

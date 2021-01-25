@@ -16,6 +16,7 @@ List of the most popular language servers (lsp). Feel free to create a pull requ
 * [Haskell](https://github.com/haskell/haskell-language-server/)
 * [Kotlin](https://github.com/fwcd/kotlin-language-server)
 * [PHP (phpractor)](https://github.com/phpactor/phpactor)
+* [Pascal (pascal-lsp)](https://github.com/arjanadriaanse/pascal-language-server)
 * [Python (pyright)](https://github.com/microsoft/pyright)
 * [Python (palantir)](https://github.com/palantir/python-language-server)
 * [Ruby (solargraph)](https://github.com/castwide/solargraph)
@@ -28,6 +29,7 @@ List of the most popular language servers (lsp). Feel free to create a pull requ
 ## Formats
 
 * [yaml (yaml-language-server)](https://github.com/redhat-developer/yaml-language-server)
+* [xml (lemminx)](https://github.com/eclipse/lemminx)
 
 ## Linting & Formatters
 

@@ -7,6 +7,7 @@ List of the most popular language servers (lsp). Feel free to create a pull requ
 ## Languages
 
 * [Ada](https://github.com/AdaCore/ada_language_server)
+* [Angular](https://github.com/angular/vscode-ng-language-service)
 * [Bash](https://github.com/bash-lsp/bash-language-server)
 * [C++ (ccls)](https://github.com/MaskRay/ccls)
 * [C# (omnisharp-roslyn)](https://github.com/OmniSharp/omnisharp-roslyn)
@@ -20,24 +21,40 @@ List of the most popular language servers (lsp). Feel free to create a pull requ
 * [Erlang (erlang_ls)](https://github.com/erlang-ls/erlang_ls)
 * [F# (FsAutoComplete)](https://github.com/fsharp/FsAutoComplete)
 * [Fortran](https://github.com/hansec/fortran-language-server)
+* [GDScript (godot)](https://github.com/godotengine/godot)
 * [Go (gopls)](https://github.com/golang/tools/tree/master/gopls)
+* [Hack](https://docs.hhvm.com/hhvm/)
 * [Haskell](https://github.com/haskell/haskell-language-server/)
 * [Kotlin](https://github.com/fwcd/kotlin-language-server)
+* [Lua](https://github.com/sumneko/lua-language-server)
+* [Nim](https://github.com/PMunch/nimlsp)
+* [Nix](https://github.com/nix-community/rnix-lsp)
+* [OCaml](https://github.com/ocaml/ocaml-lsp)
 * [Pascal (pascal-lsp)](https://github.com/arjanadriaanse/pascal-language-server)
 * [PHP (phpractor)](https://github.com/phpactor/phpactor)
+* [Powershell](https://github.com/PowerShell/PowerShellEditorServices)
+* [PureScript](https://github.com/nwolverson/purescript-language-server)
 * [Python (pyright)](https://github.com/microsoft/pyright)
 * [Python (palantir)](https://github.com/palantir/python-language-server)
+* [R](https://github.com/REditorSupport/languageserver)
+* [Racket](https://github.com/jeapostrophe/racket-langserver)
 * [Ruby (solargraph)](https://github.com/castwide/solargraph)
 * [Rust (rls)](https://github.com/rust-lang/rls)
 * [Scala (metals)](https://github.com/scalameta/metals)
+* [Svelte](https://github.com/sveltejs/language-tools)
+* [SQL (sqls)](https://github.com/lighttiger2505/sqls)
 * [Swift (SourceKit-LSP)](https://github.com/apple/sourcekit-lsp)
+* [Terraform (ls)](https://github.com/hashicorp/terraform-ls)
+* [Terraform (lsp)](https://github.com/juliosueiras/terraform-lsp)
 * [TypeScript (theia-ide)](https://github.com/theia-ide/typescript-language-server)
+* [VHDL](https://www.vhdltool.com/)
 * [Vimscript](https://github.com/iamcco/vim-language-server)
+* [Vue](https://github.com/vuejs/vetur/tree/master/server)
 
 ## Formats
 
-* [yaml (yaml-language-server)](https://github.com/redhat-developer/yaml-language-server)
 * [xml (lemminx)](https://github.com/eclipse/lemminx)
+* [yaml (yaml-language-server)](https://github.com/redhat-developer/yaml-language-server)
 
 ## Linting & Formatters
 

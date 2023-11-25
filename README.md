@@ -9,6 +9,7 @@ List of the most popular language servers (lsp). Feel free to create a pull requ
 * [Ada](https://github.com/AdaCore/ada_language_server)
 * [Angular](https://github.com/angular/vscode-ng-language-service)
 * [Apache Camel](https://github.com/camel-tooling/camel-language-server)
+* [Assembly language](https://github.com/bergercookie/asm-lsp)
 * [Bash](https://github.com/bash-lsp/bash-language-server)
 * [C++ (ccls)](https://github.com/MaskRay/ccls)
 * [C# (omnisharp-roslyn)](https://github.com/OmniSharp/omnisharp-roslyn)

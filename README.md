@@ -30,7 +30,7 @@ List of the most popular language servers (lsp). Feel free to create a pull requ
 * [Kotlin](https://github.com/fwcd/kotlin-language-server)
 * [Lua](https://github.com/sumneko/lua-language-server)
 * [Nim](https://github.com/PMunch/nimlsp)
-* [Nix](https://github.com/nix-community/rnix-lsp)
+* [Nix (nil)](https://github.com/oxalica/nil)
 * [OCaml](https://github.com/ocaml/ocaml-lsp)
 * [Pascal (pascal-lsp)](https://github.com/arjanadriaanse/pascal-language-server)
 * [PHP (phpractor)](https://github.com/phpactor/phpactor)

@@ -41,7 +41,7 @@ List of the most popular language servers (lsp). Feel free to create a pull requ
 * [R](https://github.com/REditorSupport/languageserver)
 * [Racket](https://github.com/jeapostrophe/racket-langserver)
 * [Ruby (solargraph)](https://github.com/castwide/solargraph)
-* [Rust (rls)](https://github.com/rust-lang/rls)
+* [Rust (rust-analyzer)](https://github.com/rust-lang/rust-analyzer)
 * [Scala (metals)](https://github.com/scalameta/metals)
 * [Svelte](https://github.com/sveltejs/language-tools)
 * [SQL (sqls)](https://github.com/lighttiger2505/sqls)

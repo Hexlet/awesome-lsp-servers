@@ -27,6 +27,7 @@ List of the most popular language servers (lsp). Feel free to create a pull requ
 * [Go (gopls)](https://github.com/golang/tools/tree/master/gopls)
 * [Hack](https://docs.hhvm.com/hhvm/)
 * [Haskell](https://github.com/haskell/haskell-language-server/)
+* [Kotlin (official)](https://github.com/Kotlin/kotlin-lsp)
 * [Kotlin](https://github.com/fwcd/kotlin-language-server)
 * [Lua](https://github.com/sumneko/lua-language-server)
 * [Nim](https://github.com/PMunch/nimlsp)

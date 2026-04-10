@@ -29,6 +29,7 @@ List of the most popular language servers (lsp). Feel free to create a pull requ
 * [Haskell](https://github.com/haskell/haskell-language-server/)
 * [Kotlin (official)](https://github.com/Kotlin/kotlin-lsp)
 * [Kotlin](https://github.com/fwcd/kotlin-language-server)
+* [Lateralus](https://github.com/bad-antics/lateralus-lang) - Pipeline-native programming language with LSP support
 * [Lua](https://github.com/sumneko/lua-language-server)
 * [Nim](https://github.com/PMunch/nimlsp)
 * [Nix (nil)](https://github.com/oxalica/nil)

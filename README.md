@@ -63,6 +63,10 @@ List of the most popular language servers (lsp). Feel free to create a pull requ
 
 * [Efm (efm-langserver)](https://github.com/mattn/efm-langserver)
 
+## Multi-language & Bridges
+
+* [agent-lsp](https://github.com/blackwell-systems/agent-lsp) - MCP server runtime over real language servers. Routes to the correct language server per file type (gopls, pyright, rust-analyzer, etc.), maintains a warm session, and exposes LSP operations as AI-agent-callable tools. 30 CI-verified languages, single Go binary.
+
 ##
 [![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=awesome-lsp-servers)
 

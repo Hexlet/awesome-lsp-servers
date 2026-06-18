@@ -34,6 +34,7 @@ List of the most popular language servers (lsp). Feel free to create a pull requ
 * [Nix (nil)](https://github.com/oxalica/nil)
 * [OCaml](https://github.com/ocaml/ocaml-lsp)
 * [Pascal (pascal-lsp)](https://github.com/arjanadriaanse/pascal-language-server)
+* [Perl (perl-lsp)](https://github.com/tree-sitter-perl/perl-tree-sitter-lsp)
 * [PHP (phpractor)](https://github.com/phpactor/phpactor)
 * [Powershell](https://github.com/PowerShell/PowerShellEditorServices)
 * [PureScript](https://github.com/nwolverson/purescript-language-server)

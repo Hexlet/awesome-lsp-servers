@@ -1,6 +1,32 @@
-# awesome-lsp-servers
+<div align="center">
 
-List of the most popular language servers (lsp). Feel free to create a pull request.
+<a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=awesome-lsp-servers">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hexlet/brand-assets/master/images/svg/hexlet_wordmark_white_en.svg">
+        <img src="https://raw.githubusercontent.com/Hexlet/brand-assets/master/images/svg/hexlet_wordmark_primary_en.svg" alt="Hexlet" height="64">
+    </picture>
+</a>
+
+# Awesome LSP Servers
+
+**A curated list of language servers** — 45 languages plus data formats, linters and formatters,
+with no more than two servers per language.
+
+Everything your editor needs for completion, diagnostics and go-to-definition, whatever it is:
+Neovim, Emacs, Helix, Sublime Text or VS Code.
+
+[![PR welcome](https://img.shields.io/badge/pull_request-welcome-brightgreen?style=flat-square)](#how-to-contribute)
+[![Hexlet](https://img.shields.io/badge/learn-Hexlet-116dff?style=flat-square)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=awesome-lsp-servers)
+[![Telegram](https://img.shields.io/badge/community-Telegram-26A5E4?style=flat-square)](https://t.me/hexletcommunity)
+
+</div>
+
+This list is created and maintained by the team and the community of [Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=awesome-lsp-servers),
+an educational project.
+
+## How to contribute
+
+Pull requests are welcome.
 
 * No more than 2 servers for one thing. Better just one (the best).
 
@@ -62,11 +88,3 @@ List of the most popular language servers (lsp). Feel free to create a pull requ
 ## Linting & Formatters
 
 * [Efm (efm-langserver)](https://github.com/mattn/efm-langserver)
-
-##
-[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=awesome-lsp-servers)
-
-This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=awesome-lsp-servers).
-##
-
-See most active contributors on [hexlet-friends](https://friends.hexlet.io/).

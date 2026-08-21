@@ -24,10 +24,6 @@ Neovim, Emacs, Helix, Sublime Text or VS Code.
 This list is created and maintained by the team and the community of [Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=awesome-lsp-servers),
 an educational project.
 
-> [!TIP]
-> A language server speaks the same protocol to every editor, so switching editors no longer
-> means losing your tooling.
-
 ## How to contribute
 
 Pull requests are welcome.

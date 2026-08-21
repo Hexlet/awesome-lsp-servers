@@ -9,7 +9,7 @@
 
 # Awesome LSP Servers
 
-**A curated list of language servers** — 47 languages plus data formats, linters and formatters,
+**A curated list of language servers** — 45 languages plus data formats, linters and formatters,
 with no more than two servers per language.
 
 Everything your editor needs for completion, diagnostics and go-to-definition, whatever it is:
@@ -28,9 +28,7 @@ an educational project.
 
 Pull requests are welcome.
 
-* No more than two servers for one language. One — the best — is better.
-* Keep entries in alphabetical order inside a section.
-* Link to the source repository, not to a marketing page.
+* No more than 2 servers for one thing. Better just one (the best).
 
 ## Languages
 

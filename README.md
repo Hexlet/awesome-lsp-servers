@@ -9,7 +9,7 @@
 
 # Awesome LSP Servers
 
-**A curated list of language servers** — 45 languages plus data formats, linters and formatters,
+**A curated list of language servers** — 43 languages plus data formats, linters and formatters,
 with no more than two servers per language.
 
 Everything your editor needs for completion, diagnostics and go-to-definition, whatever it is:
@@ -29,6 +29,7 @@ an educational project.
 Pull requests are welcome.
 
 * No more than 2 servers for one thing. Better just one (the best).
+* Keep entries alphabetical inside a section.
 
 ## Languages
 
@@ -51,7 +52,7 @@ Pull requests are welcome.
 * [Fortran](https://github.com/hansec/fortran-language-server)
 * [GDScript (godot)](https://github.com/godotengine/godot)
 * [Go (gopls)](https://github.com/golang/tools/tree/master/gopls)
-* [Hack](https://docs.hhvm.com/hhvm/)
+* [Hack (hh_client --lsp)](https://github.com/facebook/hhvm)
 * [Haskell](https://github.com/haskell/haskell-language-server/)
 * [Kotlin (official)](https://github.com/Kotlin/kotlin-lsp)
 * [Kotlin](https://github.com/fwcd/kotlin-language-server)
@@ -76,7 +77,6 @@ Pull requests are welcome.
 * [Terraform (ls)](https://github.com/hashicorp/terraform-ls)
 * [Terraform (lsp)](https://github.com/juliosueiras/terraform-lsp)
 * [TypeScript (theia-ide)](https://github.com/theia-ide/typescript-language-server)
-* [VHDL](https://www.vhdltool.com/)
 * [Vimscript](https://github.com/iamcco/vim-language-server)
 * [Vue](https://github.com/vuejs/vetur/tree/master/server)
 

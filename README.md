@@ -54,6 +54,7 @@ Pull requests are welcome.
 * [Go (gopls)](https://github.com/golang/tools/tree/master/gopls)
 * [Hack (hh_client --lsp)](https://github.com/facebook/hhvm)
 * [Haskell](https://github.com/haskell/haskell-language-server/)
+* [Intlayer](https://github.com/aymericzip/intlayer/tree/main/packages/%40intlayer/lsp)
 * [Kotlin (official)](https://github.com/Kotlin/kotlin-lsp)
 * [Kotlin](https://github.com/fwcd/kotlin-language-server)
 * [Lua](https://github.com/sumneko/lua-language-server)

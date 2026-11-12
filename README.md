@@ -41,7 +41,7 @@ Pull requests are welcome.
 * [C++ (ccls)](https://github.com/MaskRay/ccls)
 * [C# (omnisharp-roslyn)](https://github.com/OmniSharp/omnisharp-roslyn)
 * [Clojure (clojure-lsp)](https://github.com/clojure-lsp/clojure-lsp)
-* [CSS (vscode-css-languageservice)](https://github.com/Microsoft/vscode-css-languageservice)
+* [CSS (vscode-css-language-server)](https://github.com/microsoft/vscode/tree/main/extensions/css-language-features/server)
 * [Dart](https://github.com/dart-lang/sdk/tree/master/pkg/analysis_server)
 * [Dhall](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-lsp-server)
 * [Dockerfile](https://github.com/rcjsuen/dockerfile-language-server-nodejs)

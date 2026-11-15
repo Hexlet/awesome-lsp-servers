@@ -68,6 +68,7 @@ Pull requests are welcome.
 * [Python (palantir)](https://github.com/palantir/python-language-server)
 * [R](https://github.com/REditorSupport/languageserver)
 * [Racket](https://github.com/jeapostrophe/racket-langserver)
+* [Robot Framework (robotframework-lint-lsp)](https://github.com/ai94iq/robotframework-lint-lsp)
 * [Ruby (solargraph)](https://github.com/castwide/solargraph)
 * [Rust (rust-analyzer)](https://github.com/rust-lang/rust-analyzer)
 * [Scala (metals)](https://github.com/scalameta/metals)
